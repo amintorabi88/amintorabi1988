@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Amin Torabi. PhD in Civil Engineering water resources. Love programming 
 - 👀 I’m interested in Data science and multidiscipline projects. 
-- 🌱 I’m currently improving my programming skills with Python.
-- 💞️ I’m looking to collaborate on Python projects
+- 🌱 I’m currently improving my Data Science skills.
+- 💞️ I’m looking to collaborate on new projects
 - 📫 How to reach me: a.torabi.1988@gmail.com
 
 <!---
